@@ -1,0 +1,24 @@
+{
+    "name": "supabase-php/supabase-realtime",
+    "description": "Supabase realtime for php client.",
+    "type": "library",
+    "require-dev": {
+        "pestphp/pest": "^3.5",
+        "phpstan/phpstan": "^2.0",
+        "guzzlehttp/guzzle": "^7.9"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "SupabasePhp\\SupabaseRealtime\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sushil Kumar",
+            "email": "sushilkumbhar77@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
